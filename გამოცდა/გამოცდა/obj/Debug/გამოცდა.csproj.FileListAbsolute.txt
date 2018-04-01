@@ -1,0 +1,11 @@
+c:\users\user\source\repos\გამოცდა\გამოცდა\bin\Debug\გამოცდა.exe.config
+c:\users\user\source\repos\გამოცდა\გამოცდა\bin\Debug\გამოცდა.exe
+c:\users\user\source\repos\გამოცდა\გამოცდა\bin\Debug\გამოცდა.pdb
+c:\users\user\source\repos\გამოცდა\გამოცდა\obj\Debug\გამოცდა.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\გამოცდა\გამოცდა\obj\Debug\გამოცდა.form.resources
+c:\users\user\source\repos\გამოცდა\გამოცდა\obj\Debug\გამოცდა.Properties.Resources.resources
+c:\users\user\source\repos\გამოცდა\გამოცდა\obj\Debug\გამოცდა.csproj.GenerateResource.Cache
+c:\users\user\source\repos\გამოცდა\გამოცდა\obj\Debug\გამოცდა.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\გამოცდა\გამოცდა\obj\Debug\გამოცდა.exe
+c:\users\user\source\repos\გამოცდა\გამოცდა\obj\Debug\გამოცდა.pdb
+C:\Users\User\source\repos\გამოცდა\გამოცდა\obj\Debug\გამოცდა.Form3.resources
